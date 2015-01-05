@@ -1,0 +1,7 @@
+{
+    "name": "OSSex",
+    "version": "0.3.1",
+    "author": "Craig Durkin/Comingle",
+    "license": "MIT",
+    "description": "Spark Library for controlling Arduino-based sex-toys"
+}
